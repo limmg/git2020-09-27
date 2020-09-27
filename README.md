@@ -5,5 +5,7 @@ thymeleaf代码示例
 
 public static void main（string[ ] args）{
 
+    system.out.prientln("我在网页端编辑的这句话")
+
 }
 
